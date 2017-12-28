@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NavMesh/Scenes/NavMesh.unity
+  isLoaded: 1
+  isActive: 1

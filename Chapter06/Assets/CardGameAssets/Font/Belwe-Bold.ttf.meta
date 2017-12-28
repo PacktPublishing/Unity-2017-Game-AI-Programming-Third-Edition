@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4bf14d8a2a1039d46b1c507d7d2a107d
+timeCreated: 1510545769
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Belwe
+  fontNames:
+  - Belwe
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

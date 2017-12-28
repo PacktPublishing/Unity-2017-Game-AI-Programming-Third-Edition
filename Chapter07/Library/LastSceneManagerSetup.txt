@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FactionSystem/FactionScene.unity
+  isLoaded: 1
+  isActive: 1
