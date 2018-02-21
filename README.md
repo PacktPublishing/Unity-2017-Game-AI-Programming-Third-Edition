@@ -21,6 +21,10 @@ To install Unity just follow these steps:
 4. Eventually, you'll be prompted to select the components you wish to use. At this point you can install any components you want to use, but this book doesn't require anything special. The sample projects include the necessary files and code to follow along.
 5. The installer will walk you through the rest of the steps, and if you're on Windows, you'll also be prompted to install Visual Studio Community. We highly recommend you do so, as it is our IDE of choice. You are free, however, to use any IDE you're comfortable with.
 
+## Code in Action
+Click on the following link to see the workings of these files:
+https://goo.gl/a4b363
+
 ## Related Products
  
   
