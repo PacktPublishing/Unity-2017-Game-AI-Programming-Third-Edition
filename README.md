@@ -15,11 +15,11 @@ Following is the software list:
 
               
 To install Unity just follow these steps:
-*1 Head over to https://unity3d.com/get-unity/download and download  the installer.
-*2 When prompted to select a version, you can choose to use the Personal Edition for educational purposes, or you may opt for the Plus or Pro versions if you meet the criteria.
-*3 Once you run the installer you'll be prompted to accept the Unity license.
-*4 Eventually, you'll be prompted to select the components you wish to use. At this point you can install any components you want to use, but this book doesn't require anything special. The sample projects include the necessary files and code to follow along.
-*5 The installer will walk you through the rest of the steps, and if you're on Windows, you'll also be prompted to install Visual Studio Community. We highly recommend you do so, as it is our IDE of choice. You are free, however, to use any IDE you're comfortable with.
+1. Head over to https://unity3d.com/get-unity/download and download  the installer.
+2. When prompted to select a version, you can choose to use the Personal Edition for educational purposes, or you may opt for the Plus or Pro versions if you meet the criteria.
+3. Once you run the installer you'll be prompted to accept the Unity license.
+4. Eventually, you'll be prompted to select the components you wish to use. At this point you can install any components you want to use, but this book doesn't require anything special. The sample projects include the necessary files and code to follow along.
+5. The installer will walk you through the rest of the steps, and if you're on Windows, you'll also be prompted to install Visual Studio Community. We highly recommend you do so, as it is our IDE of choice. You are free, however, to use any IDE you're comfortable with.
 
 ## Related Products
  
